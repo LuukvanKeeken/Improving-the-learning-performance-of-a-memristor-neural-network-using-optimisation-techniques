@@ -1,1 +1,2 @@
-# Improving-the-learning-performance-of-a-memristor-neural-network-using-optimisation-techniques
+# Improving the learning performance of a memristor neural network using optimisation techniques
+This repository includes the code that was used in the Bachelor thesis of Luuk van Keeken. A large part of the code was originally created by Tiotto et al. (2021), for their paper that can be accessed here: https://www.frontiersin.org/articles/10.3389/fnins.2020.627276/full. The corresponding Github repository can be accessed at https://github.com/Tioz90/Learning-to-approximate-functions-using-niobium-doped-strontium-titanate-memristors. 
